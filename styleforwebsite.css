@@ -1,0 +1,63 @@
+body {
+        background-image: url("http://payload407.cargocollective.com/1/17/563134/10457099/CANUSA_Cargo-27_1000.jpg");
+        color: white;
+        font-family: 'Italianno', cursive;
+        font-family: 'Great Vibes', cursive;
+        font-family: 'Open Sans', sans-serif;
+    }
+  
+
+  
+      .header {
+         animation-name: fade;
+        animation-duration: 4s;
+        background-color: gray;
+        margin-left: 10px;
+        margin-left: 10px;
+       
+
+      }
+
+    @keyframes fade {
+    from {background-color: gray;}
+    to {background-color: black;}
+    }
+      
+      .text {
+    	font-size: 1.17em;
+    	margin-top: 1em;
+    	margin-bottom: 1em;
+    	margin-left: 0;
+    	margin-right: 0;
+    	font-weight: normal;
+    	margin: 10px 20px 30px 40px;
+      border: 2px solid blue;
+      border-radius: 40px;
+        padding: 70px; 
+      }
+
+        /* top, left, bottom, right all 10px
+
+	
+  /* .test {
+        margin: 10px 20px 30px 40px;
+        border: 2px solid black;
+        padding: 10px; /* top, left, bottom, right all 10px*/
+    /*  }
+
+      .header {
+        background-color: salmon;
+      }
+
+      #content {
+        background-color: blue;
+      }
+
+      .cat {
+        display: block;
+        margin: 0 auto;
+      }<body bgcolor="#E6E6FA">
+
+      h1 {
+        margin-top: 0;
+      } */ 
